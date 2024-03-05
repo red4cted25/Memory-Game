@@ -1,62 +1,62 @@
 [
     {
-        "image": "../Images/crowbar.png",
+        "image": "./Images/crowbar.png",
         "name": "Crowbar"
     },
     {
-        "image": "../Images/Energy_Drink.png",
+        "image": "./Images/Energy_Drink.png",
         "name": "Energy_Drink"
     },
     {
-        "image": "../Images/Gasoline.png",
+        "image": "./Images/Gasoline.png",
         "name": "Gasoline"
     },
     {
-        "image": "../Images/Harvester's_Scythe.png",
+        "image": "./Images/Harvester's_Scythe.png",
         "name": "Harvester's_Scythe"
     },
     {
-        "image": "../Images/Lens-Maker's_Glasses.png",
+        "image": "./Images/Lens-Maker's_Glasses.png",
         "name": "Lens-Maker's_Glasses"
     },
     {
-        "image": "../Images/Medkit.png",
+        "image": "./Images/Medkit.png",
         "name": "Medkit"
     },
     {
-        "image": "../Images/Paul's_Goat_Hoof.png",
+        "image": "./Images/Paul's_Goat_Hoof.png",
         "name": "Paul's_Goat_Hoof"
     },
     {
-        "image": "../Images/Predatory_Instincts.png",
+        "image": "./Images/Predatory_Instincts.png",
         "name": "Predatory_Instincts"
     },
     {
-        "image": "../Images/Shattering_Justice.png",
+        "image": "./Images/Shattering_Justice.png",
         "name": "Shattering_Justice"
     },
     {
-        "image": "../Images/Shatterspleen.png",
+        "image": "./Images/Shatterspleen.png",
         "name": "Shatterspleen"
     },
     {
-        "image": "../Images/Tougher_Times.png",
+        "image": "./Images/Tougher_Times.png",
         "name": "Tougher_Times"
     },
     {
-        "image": "../Images/Ukulele.png",
+        "image": "./Images/Ukulele.png",
         "name": "Ukulele"
     },
     {
-        "image": "../Images/Unstable_Tesla_Coil.png",
+        "image": "./Images/Unstable_Tesla_Coil.png",
         "name": "Unstable_Tesla_Coil"
     },
     {
-        "image": "../Images/Volcanic_Egg.png",
+        "image": "./Images/Volcanic_Egg.png",
         "name": "Volcanic_Egg"
     },
     {
-        "image": "../Images/Will-o'-the-wisp.png",
+        "image": "./Images/Will-o'-the-wisp.png",
         "name": "Will-o'-the-wisp"
     }
 ]

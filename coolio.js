@@ -90,6 +90,7 @@ function restart() {
     resetBoard();
     shuffleCards();
     score = 0;
+    errors = 0;
     document.getElementById("score").innerHTML = score;
     gridContainer.innerHTML = "";
     generateCards();
