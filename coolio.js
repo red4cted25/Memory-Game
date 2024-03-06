@@ -92,7 +92,6 @@ function restart() {
     shuffleCards();
     score = 0;
     errors = 0;
-    document.getElementById("score").innerHTML = score;
     document.getElementById("errors").innerHTML = errors;
     gridContainer.innerHTML = "";
     generateCards();
