@@ -6,6 +6,7 @@ let score = 0;
 let errors = 0;
 
 document.getElementById("score").innerHTML = score;
+document.getElementById("errors").innerHTML = errors;
 
 fetch("./data/cards.json")
     .then((res) => res.json())
